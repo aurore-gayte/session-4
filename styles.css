@@ -1,5 +1,26 @@
-* {
-	box-sizing: border-box;
+<!DOCTYPE html>
+<html>
+ <head>
+ <meta charset="utf-8">
+	<title>Exercice de style</title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+	<header>
+		<div class="centered">
+article p {
+            color: white;
+			<p class="subtitle">Journaliste</p>
+			<h1>Aurore Gayte</h1>
+			}
+
+			
+  
+
+
+
+* {color: #008B8B;
+	box-sizing: border-box; width: 100%; 
 }
 
 html, body {
@@ -66,3 +87,6 @@ p {
 footer h2 {
 
 }
+
+
+</html>
